@@ -1,0 +1,9 @@
+.gitignore
+.idea/copyright/
+.idea/modules.xml
+.idea/ng2-filter-ords.iml
+.idea/workspace.xml
+node_modules/
+lib
+build
+npm-debug.log
