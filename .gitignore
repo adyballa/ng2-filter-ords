@@ -1,6 +1,6 @@
 .gitignore
 .idea/
 node_modules/
-lib
+lib/node_modules
 build
 npm-debug.log
