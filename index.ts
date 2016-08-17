@@ -1,3 +1,1 @@
-/**
- * Created by Andreas on 15.08.2016.
- */
+export * from "./src/model/abstractListModel.service";

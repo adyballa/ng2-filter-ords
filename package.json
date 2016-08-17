@@ -2,7 +2,7 @@
   "name": "ng2-filter-ords",
   "version": "0.0.1",
   "description": "Angular 2 filtering and sorting for lists of ords",
-  "main": "index.js",
+  "main": "lib/index.js",
   "scripts": {
     "watch": "tsc -p src -w",
     "build": "rm -rf lib && tsc -p src",
